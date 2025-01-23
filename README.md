@@ -28,11 +28,39 @@ Hands-on technical training in the principles and best practices of designing an
 **Timeline:** Februrary 28 - March 9, 2025
 
 ### Delivery Mode
-- **Online:** Live sessions for ALL particpants
-- **In-person (bonus):** 2 Saturdays. Location and schedule TBA.
+- **Online:** Live sessions for ALL particpants.
+- **In-person:** Bonus physical sessions on Saturdays to be held in Lagos for those interested. Venue and schedule TBA.
 
 ### Curriculum Structure
 Coming soon!
+
+## Track 2: Training, Serving, Scaling and Debugging LLMs
+### Overview
+Hands-on technical training in the inner-workings of large language models - from LLM architectures and training/finetuning techniques to deployment. You will learn how to pretrain LLMs on GPUs, finetune existing LLMs, serve LLMs based on infrastructure capacity or available compute, and finally how to optimise LLM servers using techniques such as distributed inference and server autoscaling.
+
+### Track Details
+**Instructors:** Zion Pibowei. Other instructors to be announced soon.
+
+**Target Audience:** AISOC Season 1 graduates or anyone who has at least foundational knowledge prototyping LLM systems such as QA systems and RAG. This track is not for beginers in AI or LLMs.
+
+**Prerequisites:**
+- Working knowledge of Python. Experience with Pytorch will be a bonus.
+- Familiarity with LLM APIs such as OpenAI, Gemini, Claude, etc, for prototyping.
+- At least basic knowledge of prompt engineering
+- Previous experience training classical machine learning and deep learning models will be a bonus but not compulsory.
+- Familiarity with GPUs, CUDA and HuggingFace will be a bonus!
+
+**Timeline:** March 21 - April 6, 2025
+
+### Delivery Mode
+- **Online:** Live sessions for ALL particpants
+- **In-person:** Bonus physical sessions on Saturdays to be held in Lagos for those interested. Venue and schedule TBA.
+
+### Curriculum Structure
+Coming soon!
+
+
+
 
 
 

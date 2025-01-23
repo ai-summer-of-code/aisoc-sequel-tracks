@@ -8,7 +8,7 @@ These tracks are largely independent of each other, however, they do have strict
 
 **These tracks are not for complete beginners to AI or LLMs!**
 
-## Building Scalable Agentic Workflows
+## Track 1: Building Scalable Agentic Workflows
 ### Overview
 Hands-on technical training in the principles and best practices of designing and implementing LLM agents. This is a deep dive and more comprehensive treatment of the folowing sessions on Agents from Season 1:
 - [Introduction to Pydantic, Data Validation & Structured Outputs for LLMs](https://github.com/ai-summer-of-code/aisoc-season-1/tree/main/src/week_1/day_3_pydantic)
@@ -17,8 +17,11 @@ Hands-on technical training in the principles and best practices of designing an
 
 ### Track Details
 **Timeline:** Februrary 28 - March 9, 2025
+
 **Instructors:** Sam Ayo, Zion Pibowei
+
 **Target Audience:** AISOC Season 1 graduates or anyone who has at least foundational knowledge prototyping LLM systems such as QA systems and RAG. This track is not for beginers in AI or LLMs.
+
 **Prerequisites:**
 - Working knowledge of Python or similar programming languages.
 - Familiarity with LLM APIs such as OpenAI, Gemini, Claude, etc, for prototyping.

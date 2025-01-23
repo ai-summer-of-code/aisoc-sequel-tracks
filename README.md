@@ -4,7 +4,7 @@ Sequel to the successful first edition of AISOC in 2024, and based on popular de
 - Training, Serving and Scaling LLMs
 - AI Systems in Production (Models, RAGs, Agents)
 
-These tracks are largely independent of each other, however, they do have strict prerequisites as outlined in the next sections. Intending participants must ensure they meet these requirements.
+These tracks are largely independent of each other, however, they do have strict prerequisites as outlined in their respective sections. Intending participants must ensure they meet these requirements.
 
 **These tracks are not for complete beginners to AI or LLMs!**
 

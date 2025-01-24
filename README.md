@@ -8,6 +8,11 @@ These tracks are largely independent of each other, however, they do have strict
 
 **These tracks are not for complete beginners to AI or LLMs!**
 
+<p align="left">
+  <br>
+  <a href="https://forms.gle/sJWEWmET9Vh69hj66" target="_blank" rel="noopener noreferrer"><img src="https://github.com/zion-king/ai-summer-of-code/blob/main/assets/aisoc-signup.png?raw=true" height="50"/></a>
+</p>
+
 ## Track 1: Building Scalable Agentic Workflows
 ### Overview
 Hands-on technical training in the principles and best practices of designing and implementing LLM agents. This is a deep dive and more comprehensive treatment of the folowing sessions on Agents from Season 1:

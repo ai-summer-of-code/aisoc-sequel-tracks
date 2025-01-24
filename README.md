@@ -18,6 +18,8 @@ Hands-on technical training in the principles and best practices of designing an
 ### Track Details
 **Instructors:** [Sam Ayo](https://www.linkedin.com/in/sam-ayo), [Zion Pibowei](https://linkedin.com/in/zion-pibowei)
 
+**Timeline:** Februrary 28 - March 9, 2025
+
 **Target Audience:** AISOC Season 1 graduates or anyone who has at least foundational knowledge prototyping LLM systems such as QnA systems and RAG. This track is not for beginers in AI or LLMs.
 
 **Prerequisites:**
@@ -26,9 +28,7 @@ Hands-on technical training in the principles and best practices of designing an
 - At least basic knowledge of prompt engineering
 - **Prior knolwedge of Agents helpful but not required.**
 
-**Timeline:** Februrary 28 - March 9, 2025
-
-### Delivery Mode
+**Delivery Mode**
 - **Online:** Live sessions for ALL particpants.
 - **In-person:** Bonus physical sessions on Saturdays to be held in Lagos for those interested. Venue and schedule TBA.
 
@@ -47,6 +47,8 @@ Hands-on technical training in the inner-workings of large language models - fro
 - [Saheed Azeez](https://www.linkedin.com/in/azeez-saheed) - AI Engineer, HelpMum Africa.
 - Other instructors to be announced soon.
 
+**Timeline:** March 21 - April 6, 2025
+
 **Target Audience:** AISOC Season 1 graduates or anyone who has at least foundational knowledge prototyping LLM systems such as QA systems and RAG. This track is not for beginers in AI or LLMs.
 
 **Prerequisites:**
@@ -56,9 +58,7 @@ Hands-on technical training in the inner-workings of large language models - fro
 - Previous experience training classical machine learning and deep learning models is a bonus but not compulsory.
 - Familiarity with GPUs, CUDA and HuggingFace is a bonus!
 
-**Timeline:** March 21 - April 6, 2025
-
-### Delivery Mode
+**Delivery Mode**
 - **Online:** Live sessions for ALL particpants
 - **In-person:** Bonus physical sessions on Saturdays to be held in Lagos for those interested. Venue and schedule TBA.
 
@@ -75,6 +75,8 @@ Hands-on technical training in the engineering best practices of implementing pr
 - [Caleb Chinga](https://www.linkedin.com/in/calebchinga) - Engineering Manager, Periculum
 - Other instructors to be announced soon.
 
+**Timeline:** Q2 2025. Specific date TBA.
+
 **Target Audience:** 
 - AISOC Season 1 graduates or anyone with prior background in prototyping, training or finetuning LLMs, and who desire to build production-ready skills.
 - Data/ML engineers, software engineers or developers from other fields with prior experience building and deploying traditional software, data pipelines or traditional ML systems.
@@ -89,17 +91,10 @@ Hands-on technical training in the engineering best practices of implementing pr
   - **Agents:** For those mainly interested in productionizing agentic systems, prior knowledge in designing and implementing agents is required up to the level of the Agents track.
   - **Models:** For those interested in production systems (RAGs, Agents, QnA, etc) with bare/finetuned LLMs, prior knowledge in the inner workings of LLMs is required, up to the level of the Finetuning track.
 
-**Timeline:** Q2 2025. Specific date TBA.
-
 ### Delivery Mode
 - **Online:** Live sessions for ALL particpants.
 - **In-person:** Bonus physical sessions on Saturdays to be held in Lagos for those interested. Venue and schedule TBA.
 
 ### Curriculum Structure
 Coming soon!
-
-
-
-
-
 

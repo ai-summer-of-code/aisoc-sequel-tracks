@@ -21,6 +21,8 @@ Hands-on technical training in the principles and best practices of designing an
 - [Turning LLMs into Agentic Systems](https://github.com/ai-summer-of-code/aisoc-season-1/tree/main/src/week_2/day_1_agents)
 - [Building Conversational Web Search Agents](https://github.com/ai-summer-of-code/aisoc-season-1/tree/main/src/week_2/day_3_web_search/src/agent)
 
+Sessions in this track will go well beyond the above and cover more indepth principles.
+
 ### Track Details
 **Instructors:** [Sam Ayo](https://www.linkedin.com/in/sam-ayo), [Zion Pibowei](https://linkedin.com/in/zion-pibowei)
 

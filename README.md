@@ -1,6 +1,6 @@
 # AISOC Season 1 Sequel Tracks
 Sequel to the successful first edition of AISOC in 2024, and based on popular demand, we are opening the following specialist tracks to help you advance and specialize your knowledge and skill in specific areas of interest.
-- Building Scalable Agentic Workflows
+- Building Agentic AI Systems
 - Training, Serving, Scaling and Debugging LLMs
 - AI Systems in Production (Models, RAGs, Agents)
 
@@ -13,7 +13,7 @@ These tracks are largely independent of each other, however, they do have strict
   <a href="https://forms.gle/sJWEWmET9Vh69hj66" target="_blank" rel="noopener noreferrer"><img src="https://github.com/zion-king/ai-summer-of-code/blob/main/assets/aisoc-signup.png?raw=true" height="50"/></a> -->
 </p>
 
-## Track 1: Building Scalable Agentic Workflows
+## Track 1: Building Agentic AI Systems
 ### Overview
 Hands-on technical training in the principles and best practices of designing and implementing LLM agents. This is a deep dive and more comprehensive treatment of the folowing sessions on Agents from Season 1:
 - [Introduction to Pydantic, Data Validation & Structured Outputs for LLMs](https://github.com/ai-summer-of-code/aisoc-season-1/tree/main/src/week_1/day_3_pydantic)

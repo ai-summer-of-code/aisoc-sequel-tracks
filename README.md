@@ -9,8 +9,8 @@ These tracks are largely independent of each other, however, they do have strict
 **These tracks are not for complete beginners to AI or LLMs!**
 
 <p align="left">
-<!--   <br>
-  <a href="https://forms.gle/sJWEWmET9Vh69hj66" target="_blank" rel="noopener noreferrer"><img src="https://github.com/zion-king/ai-summer-of-code/blob/main/assets/aisoc-signup.png?raw=true" height="50"/></a> -->
+  <br>
+  <a href="https://forms.gle/sJWEWmET9Vh69hj66" target="_blank" rel="noopener noreferrer"><img src="https://github.com/zion-king/ai-summer-of-code/blob/main/assets/aisoc-signup.png?raw=true" height="50"/></a>
 </p>
 
 ## Track 1: Building Agentic AI Systems

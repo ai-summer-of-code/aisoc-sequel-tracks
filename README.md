@@ -4,7 +4,7 @@ Sequel to the successful first edition of [AISOC in 2024](https://github.com/ai-
 - Training, Serving, Scaling and Debugging LLMs
 - AI Systems in Production (Models, RAGs, Agents)
 
-These tracks will run on separate timelines and can be taken independently. However, they do have strict prerequisites as outlined in their respective sections. Intending participants must ensure they meet these requirements.
+These tracks will run on separate timelines and can be taken independently. However, they do have strict prerequisites as outlined in their respective sections below. Intending participants must ensure they meet these requirements.
 
 **These tracks are not for beginners to AI, ML or LLMs!**
 
@@ -16,7 +16,7 @@ These tracks will run on separate timelines and can be taken independently. Howe
 
 ## Track 1: Building Agentic AI Systems
 ### Overview
-Hands-on technical training in the principles and best practices of designing and implementing LLM agents. This is a deep dive and more comprehensive treatment of the following sessions on Agents from [AISOC Season 1](https://github.com/ai-summer-of-code/aisoc-season-1):
+Hands-on technical training in the principles and best practices of designing and implementing LLM agents. This is a deep dive and build up on the following sessions on Agents from [AISOC Season 1](https://github.com/ai-summer-of-code/aisoc-season-1):
 - [Introduction to Pydantic, Data Validation & Structured Outputs for LLMs](https://github.com/ai-summer-of-code/aisoc-season-1/tree/main/src/week_1/day_3_pydantic)
 - [Turning LLMs into Agentic Systems](https://github.com/ai-summer-of-code/aisoc-season-1/tree/main/src/week_2/day_1_agents)
 - [Building Conversational Web Search Agents](https://github.com/ai-summer-of-code/aisoc-season-1/tree/main/src/week_2/day_3_web_search/src/agent)

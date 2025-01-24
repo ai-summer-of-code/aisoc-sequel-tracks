@@ -28,13 +28,13 @@ Sessions in this track will go well beyond the above and cover more indepth prin
 
 **Timeline:** Februrary 28 - March 9, 2025
 
-**Target Audience:** AISOC Season 1 graduates or anyone who has at least foundational knowledge prototyping LLM systems such as QnA systems and RAG. This track is not for beginers in AI or LLMs.
+**Target Audience:** AISOC Season 1 graduates or anyone who has at least foundational knowledge prototyping LLM systems such as QnA systems and RAG. This track is not for complete beginers in AI or LLMs.
 
 **Prerequisites:**
 - Working knowledge of Python or similar programming languages.
 - Familiarity with LLM APIs such as OpenAI, Gemini, Claude, etc, for prototyping.
 - At least basic knowledge of prompt engineering
-- **Prior knolwedge of Agents is helpful but not strictly required.**
+- Prior knolwedge of Agents is helpful but not strictly required.
 
 **Delivery Mode**
 - **Online:** Live sessions for ALL participants.
@@ -55,7 +55,7 @@ Hands-on technical training in the inner-workings of large language models - fro
 - [Saheed Azeez](https://www.linkedin.com/in/azeez-saheed) - AI Engineer, HelpMum Africa.
 - Other instructors to be announced soon.
 
-**Timeline:** March 21 - April 6, 2025
+**Timeline:** March 21 - April 13, 2025
 
 **Target Audience:** AISOC Season 1 graduates or anyone who has at least foundational knowledge prototyping LLM systems such as QA systems and RAG. This track is not for beginers in AI or LLMs.
 
@@ -75,7 +75,9 @@ Coming soon!
 
 ## Track 3: AI Systems in Production (Models, RAGs, Agents) - Coming up in Q2
 ### Overview
-Hands-on technical training in the engineering best practices of implementing production AI systems and designing them for scale. This is a deep dive and more comprehensive treatment of the Production topics introduced in AISOC Season 1 Week 3. Prior knowledge to the level of most of the topics covered in AISOC Season 1 is expected as those sessions laid the necessary foundations across LLM training, APIs, RAGs, Agents and deployment. See an outline of the prerequistes in the next sessions for more details.
+Hands-on technical training in the engineering best practices of implementing production AI systems and designing them for scale. This is a deep dive and more comprehensive treatment of the Production topics introduced in AISOC Season 1 Week 3. 
+
+Prior knowledge to the level of most of the topics covered in AISOC Season 1 is expected as those sessions laid the necessary foundations across LLM training, APIs, RAGs, Agents and deployment. See an outline of the prerequistes below for more details.
 
 ### Track Details
 **Instructors:** 
@@ -93,11 +95,11 @@ Hands-on technical training in the engineering best practices of implementing pr
 - At least basic knowledge of prompt engineering
 - Working knowledge of Python, C#/.NET, Go, Rust, Java or similar programming languages.
 - Familiarity with LLM APIs such as OpenAI, Gemini, Claude, etc, for prototyping.
-- General familiarity with Docker and cloud platforms is a bonus.
+- General familiarity with Docker, shell scripting and cloud platforms is a plus.
 - Required familiarity in specialist areas:
-  - **RAGs:** Prior knowledge of RAG implementation is REQUIRED for everyone, to the level covered in AISOC Season 1
-  - **Agents:** For those mainly interested in productionizing agentic systems, prior knowledge in designing and implementing agents is required up to the level of the Agents track.
-  - **Models:** For those interested in production systems (RAGs, Agents, QnA, etc) with bare/finetuned LLMs, prior knowledge in the inner workings of LLMs is required, up to the level of the Finetuning track.
+  - **RAGs:** Prior knowledge of RAG implementation is REQUIRED for everyone, to the level covered in AISOC Season 1.
+  - **Agents:** For those mainly interested in productionizing agentic systems, prior knowledge in designing and implementing agents is required up to the level of the [Agents track](https://github.com/ai-summer-of-code).
+  - **Models:** For those interested in production systems (RAGs, Agents, QnA, etc) with bare/finetuned LLMs, prior knowledge in the inner workings of LLMs is required, up to the level of the [LLM Training track](https://github.com/ai-summer-of-code).
 
 ### Delivery Mode
 - **Online:** Live sessions for ALL participants.

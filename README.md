@@ -104,7 +104,7 @@ Prior knowledge to the level of most of the topics covered in AISOC Season 1 is 
 - General familiarity with Docker, shell scripting and cloud platforms is a plus.
 - Required familiarity in specialist areas:
   - **RAGs:** Prior knowledge of RAG implementation is REQUIRED for everyone, to the level covered in AISOC Season 1.
-  - **Agents:** For those mainly interested in productionizing agentic systems, prior knowledge in designing and implementing agents is required up to the level of the [Agents track](https://github.com/ai-summer-of-code).
+  - **Agents:** For those mainly interested in productionizing agentic systems, prior knowledge in designing and implementing agents is required up to the level of the [Agents track](https://github.com/ai-summer-of-code/aisoc-sequel-tracks/#track-1-building-agentic-ai-systems).
   - **Models:** For those interested in production systems (RAGs, Agents, QnA, etc) with bare/finetuned LLMs, prior knowledge of the inner workings of LLMs is required, up to the level of the [LLM Training track](https://github.com/ai-summer-of-code).
 
 **Delivery Mode**

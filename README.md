@@ -2,17 +2,17 @@
 Sequel to the successful first edition of [AISOC in 2024](https://github.com/ai-summer-of-code/aisoc-season-1), and based on popular demand, we are opening the following specialist tracks to help you advance and specialize your knowledge and skill in specific areas of interest.
 - [Building Agentic AI Systems](https://github.com/ai-summer-of-code/aisoc-sequel-tracks/#track-1-building-agentic-ai-systems)
 - [Training, Serving, Scaling and Debugging LLMs](https://github.com/ai-summer-of-code/aisoc-sequel-tracks/#track-2-training-serving-scaling-and-debugging-llms)
-- [AI Systems in Production (Models, RAGs, Agents)](https://github.com/ai-summer-of-code/aisoc-sequel-tracks/#track-1-building-agentic-ai-systems)
+- [AI Systems in Production (Models, RAGs, Agents)](https://github.com/ai-summer-of-code/aisoc-sequel-tracks/#track-3-ai-systems-in-production-models-rags-agents---coming-up-in-q2)
 
 These tracks will run on separate timelines and can be taken independently. However, they do have strict prerequisites as outlined in their respective sections below. Intending participants must ensure they meet these requirements.
 
 **These tracks are not for beginners to AI, ML or LLMs!**
 
 <p align="left">
-<!--   <br>
+  <br>
   <a href="https://bit.ly/aisoc-sequel-registration" target="_blank" rel="noopener noreferrer"><img src="https://github.com/zion-king/ai-summer-of-code/blob/main/assets/aisoc-signup.png?raw=true" height="50"/></a>
   <br>
-</p> -->
+</p>
 
 ## Track 1: Building Agentic AI Systems
 ### Overview

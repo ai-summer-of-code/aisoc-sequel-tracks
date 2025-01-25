@@ -1,4 +1,4 @@
-# AISOC Season 1 Sequel Tracks
+# AISOC Specialist Tracks, 2025
 Sequel to the successful first edition of [AISOC in 2024](https://github.com/ai-summer-of-code/aisoc-season-1), and based on popular demand, we are opening the following specialist tracks to help you advance and specialize your knowledge and skill in specific areas of interest.
 - Building Agentic AI Systems
 - Training, Serving, Scaling and Debugging LLMs

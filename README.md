@@ -28,7 +28,7 @@ Sessions in this track will go well beyond the above and cover more indepth prin
 
 **Timeline:** Februrary 28 - March 9, 2025
 
-**Registration Deadline:** Februrary 21, 2025
+**Registration Deadlines:** Februrary 16, 2025 (early), Februrary 21, 2025 (final)
 
 **Target Audience:** AISOC Season 1 graduates or anyone who has at least foundational knowledge prototyping LLM systems such as QnA systems and RAG. This track is not for complete beginers in AI or LLMs.
 
@@ -62,7 +62,7 @@ Hands-on technical training in the inner-workings of large language models - fro
 
 **Timeline:** March 21 - April 13, 2025
 
-**Registration Deadline:** March 14, 2025
+**Registration Deadlines:** March 9, 2025 (early), March 16, 2025 (final)
 
 **Target Audience:** AISOC Season 1 graduates or anyone who has at least foundational knowledge prototyping LLM systems such as QA systems and RAG. This track is not for beginers in AI or LLMs.
 

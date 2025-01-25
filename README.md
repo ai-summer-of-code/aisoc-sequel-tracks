@@ -27,6 +27,7 @@ Sessions in this track will go well beyond the above and cover more indepth prin
 **Instructors:** [Sam Ayo](https://www.linkedin.com/in/sam-ayo), [Zion Pibowei](https://linkedin.com/in/zion-pibowei)
 
 **Timeline:** Februrary 28 - March 9, 2025
+**Registration Deadline:** Februrary 21, 2025
 
 **Target Audience:** AISOC Season 1 graduates or anyone who has at least foundational knowledge prototyping LLM systems such as QnA systems and RAG. This track is not for complete beginers in AI or LLMs.
 
@@ -59,6 +60,7 @@ Hands-on technical training in the inner-workings of large language models - fro
 - Other instructors to be announced soon.
 
 **Timeline:** March 21 - April 13, 2025
+**Registration Deadline:** March 14, 2025
 
 **Target Audience:** AISOC Season 1 graduates or anyone who has at least foundational knowledge prototyping LLM systems such as QA systems and RAG. This track is not for beginers in AI or LLMs.
 

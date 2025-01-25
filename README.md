@@ -4,7 +4,7 @@ Sequel to the successful first edition of [AISOC in 2024](https://github.com/ai-
 - [Training, Serving, Scaling and Debugging LLMs](https://github.com/ai-summer-of-code/aisoc-sequel-tracks/#track-2-training-serving-scaling-and-debugging-llms)
 - [AI Systems in Production (Models, RAGs, Agents)](https://github.com/ai-summer-of-code/aisoc-sequel-tracks/#track-3-ai-systems-in-production-models-rags-agents---coming-up-in-q2)
 
-These tracks will run on separate timelines and can be taken independently. However, they do have strict prerequisites as outlined in their respective sections below. Intending participants must ensure they meet these requirements.
+These tracks will run on separate timelines and can be taken independently. However, they do have strict prerequisites as outlined in their respective sections below. Intending participants must ensure they meet these requirements. All tracks come with community membership and post-training support.
 
 **These tracks are not for beginners to AI, ML or LLMs!**
 

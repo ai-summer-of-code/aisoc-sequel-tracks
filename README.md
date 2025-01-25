@@ -10,7 +10,7 @@ These tracks will run on separate timelines and can be taken independently. Howe
 
 <p align="left">
 <!--   <br>
-  <a href="https://forms.gle/sJWEWmET9Vh69hj66" target="_blank" rel="noopener noreferrer"><img src="https://github.com/zion-king/ai-summer-of-code/blob/main/assets/aisoc-signup.png?raw=true" height="50"/></a>
+  <a href="https://bit.ly/aisoc-sequel-registration" target="_blank" rel="noopener noreferrer"><img src="https://github.com/zion-king/ai-summer-of-code/blob/main/assets/aisoc-signup.png?raw=true" height="50"/></a>
   <br>
 </p> -->
 
@@ -40,6 +40,9 @@ Sessions in this track will go well beyond the above and cover more indepth prin
 - **Online:** Live sessions for ALL participants.
 - **In-person:** Bonus physical sessions on Saturdays to be held in Lagos for those interested. Venue and schedule TBA.
 
+**Learning Outcomes:** 
+At the end of this track, participants will be equipped with the engineering best practices of designing and implementing scalable AI Agents, applicable immediately to practical, real-world projects across a wide range of industries and use cases.
+
 ### Curriculum Structure
 Coming soon!
 
@@ -61,14 +64,17 @@ Hands-on technical training in the inner-workings of large language models - fro
 
 **Prerequisites:**
 - At least basic knowledge of prompt engineering
-- Working knowledge of Python. Experience with Pytorch is a bonus.
+- Working knowledge of Python. Experience with Pytorch is a plus.
 - Familiarity with LLM APIs such as OpenAI, Gemini, Claude, etc, for prototyping.
-- Previous experience training classical machine learning and deep learning models is a bonus but not compulsory.
+- Previous experience training classical machine learning and deep learning models is a plus but not compulsory.
 - Familiarity with GPUs, CUDA and HuggingFace is a bonus!
 
 **Delivery Mode**
 - **Online:** Live sessions for ALL participants
 - **In-person:** Bonus physical sessions on Saturdays to be held in Lagos for those interested. Venue and schedule TBA.
+
+**Learning Outcomes:** 
+At the end of this track, participants will be equipped with the principles and best practices of training, finetuning and optimizing LLMs for deployment into real-world applications. This knowledge is applicable immediately to practical, real-world projects across a wide range of industries and use cases.
 
 ### Curriculum Structure
 Coming soon!
@@ -99,11 +105,14 @@ Prior knowledge to the level of most of the topics covered in AISOC Season 1 is 
 - Required familiarity in specialist areas:
   - **RAGs:** Prior knowledge of RAG implementation is REQUIRED for everyone, to the level covered in AISOC Season 1.
   - **Agents:** For those mainly interested in productionizing agentic systems, prior knowledge in designing and implementing agents is required up to the level of the [Agents track](https://github.com/ai-summer-of-code).
-  - **Models:** For those interested in production systems (RAGs, Agents, QnA, etc) with bare/finetuned LLMs, prior knowledge in the inner workings of LLMs is required, up to the level of the [LLM Training track](https://github.com/ai-summer-of-code).
+  - **Models:** For those interested in production systems (RAGs, Agents, QnA, etc) with bare/finetuned LLMs, prior knowledge of the inner workings of LLMs is required, up to the level of the [LLM Training track](https://github.com/ai-summer-of-code).
 
-### Delivery Mode
+**Delivery Mode**
 - **Online:** Live sessions for ALL participants.
 - **In-person:** Bonus physical sessions on Saturdays to be held in Lagos for those interested. Venue and schedule TBA.
+
+**Learning Outcomes:** 
+At the end of this track, participants will be equipped with the engineering best practices of designing, deploying and scaling production AI systems, applicable immediately to practical, real-world projects across a wide range of industries and use cases.
 
 ### Curriculum Structure
 Coming soon!

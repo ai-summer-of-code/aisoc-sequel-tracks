@@ -1,8 +1,8 @@
 # AISOC Specialist Tracks, 2025
 Sequel to the successful first edition of [AISOC in 2024](https://github.com/ai-summer-of-code/aisoc-season-1), and based on popular demand, we are opening the following specialist tracks to help you advance and specialize your knowledge and skill in specific areas of interest.
-- Building Agentic AI Systems
-- Training, Serving, Scaling and Debugging LLMs
-- AI Systems in Production (Models, RAGs, Agents)
+- [Building Agentic AI Systems](https://github.com/ai-summer-of-code/aisoc-sequel-tracks/#track-1-building-agentic-ai-systems)
+- [Training, Serving, Scaling and Debugging LLMs](https://github.com/ai-summer-of-code/aisoc-sequel-tracks/#track-2-training-serving-scaling-and-debugging-llms)
+- [AI Systems in Production (Models, RAGs, Agents)](https://github.com/ai-summer-of-code/aisoc-sequel-tracks/#track-1-building-agentic-ai-systems)
 
 These tracks will run on separate timelines and can be taken independently. However, they do have strict prerequisites as outlined in their respective sections below. Intending participants must ensure they meet these requirements.
 
@@ -105,7 +105,7 @@ Prior knowledge to the level of most of the topics covered in AISOC Season 1 is 
 - Required familiarity in specialist areas:
   - **RAGs:** Prior knowledge of RAG implementation is REQUIRED for everyone, to the level covered in AISOC Season 1.
   - **Agents:** For those mainly interested in productionizing agentic systems, prior knowledge in designing and implementing agents is required up to the level of the [Agents track](https://github.com/ai-summer-of-code/aisoc-sequel-tracks/#track-1-building-agentic-ai-systems).
-  - **Models:** For those interested in production systems (RAGs, Agents, QnA, etc) with bare/finetuned LLMs, prior knowledge of the inner workings of LLMs is required, up to the level of the [LLM Training track](https://github.com/ai-summer-of-code).
+  - **Models:** For those interested in production systems (RAGs, Agents, QnA, etc) with bare/finetuned LLMs, prior knowledge of the inner workings of LLMs is required, up to the level of the [LLM Training track](https://github.com/ai-summer-of-code/aisoc-sequel-tracks/#track-2-training-serving-scaling-and-debugging-llms).
 
 **Delivery Mode**
 - **Online:** Live sessions for ALL participants.

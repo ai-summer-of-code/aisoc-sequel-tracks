@@ -117,3 +117,8 @@ At the end of this track, participants will be equipped with the engineering bes
 ### Curriculum Structure
 Coming soon!
 
+<p align="left">
+  <br>
+  <a href="https://bit.ly/aisoc-sequel-registration" target="_blank" rel="noopener noreferrer"><img src="https://github.com/zion-king/ai-summer-of-code/blob/main/assets/aisoc-signup.png?raw=true" height="50"/></a>
+  <br>
+</p>

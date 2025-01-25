@@ -34,7 +34,7 @@ Sessions in this track will go well beyond the above and cover more indepth prin
 - Working knowledge of Python or similar programming languages.
 - Familiarity with LLM APIs such as OpenAI, Gemini, Claude, etc, for prototyping.
 - At least basic knowledge of prompt engineering
-- Prior knolwedge of Agents is helpful but not strictly required.
+- Prior knowledge of Agents is helpful but not strictly required.
 
 **Delivery Mode**
 - **Online:** Live sessions for ALL participants.

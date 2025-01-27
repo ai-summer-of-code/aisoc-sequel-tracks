@@ -26,7 +26,7 @@ Sessions in this track will go well beyond the above and cover more indepth prin
 ### Track Details
 **Instructors:** [Sam Ayo](https://www.linkedin.com/in/sam-ayo), [Zion Pibowei](https://linkedin.com/in/zion-pibowei)
 
-**Timeline:** Februrary 28 - March 9, 2025
+**Timeline:** Februrary 28 - March 9, 2025. Timetable to be shared soon.
 
 **Registration Deadlines:** Februrary 16, 2025 (early), Februrary 21, 2025 (final)
 
@@ -60,7 +60,7 @@ Hands-on technical training in the inner-workings of large language models - fro
 - [Saheed Azeez](https://www.linkedin.com/in/azeez-saheed) - AI Engineer, HelpMum Africa.
 - Other instructors to be announced soon.
 
-**Timeline:** March 21 - April 13, 2025
+**Timeline:** March 21 - April 13, 2025. Timetable to be shared soon.
 
 **Registration Deadlines:** March 9, 2025 (early), March 16, 2025 (final)
 

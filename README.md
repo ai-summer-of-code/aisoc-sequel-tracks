@@ -6,7 +6,7 @@ Sequel to the successful first edition of [AISOC in 2024](https://github.com/ai-
 
 These tracks will run on separate timelines and can be taken independently. However, they do have strict prerequisites as outlined in their respective sections below. Intending participants must ensure they meet these requirements. All tracks come with community membership and post-training support.
 
-**These tracks are not for beginners to AI, ML or LLMs!**
+**These tracks are not for entirely new comers to AI, ML or LLMs!**
 
 <p align="left">
   <br>

@@ -20,10 +20,10 @@ These tracks will run on separate timelines and can be taken independently. Howe
 
 ## Track 0: AISOC Community Edition for Beginners
 ### Overview
-This hands-on track is designed to recap the key foundational sessions from [AISOC Season 1](https://github.com/ai-summer-of-code/aisoc-season-1). This track will prepare you to meet the basic prerequisites for the 3 specialist tracks. This is a community edition that will be primarily taught by brilliant, well-vetted community members who completed AISOC Season 1 and are doing exceptionally well already. These individuals will be joining the AISOC faculty team to share their knowledge and guide you through the fundamentals.
+This hands-on track is designed to recap the key foundational sessions from [AISOC Season 1](https://github.com/ai-summer-of-code/aisoc-season-1). This track will prepare you to meet the basic prerequisites for the 3 specialist tracks. This is a _community edition_ that will be primarily taught by brilliant, well-vetted community members who completed AISOC Season 1 and are doing exceptionally well already. These individuals will join the AISOC faculty to share their knowledge and guide you through the fundamentals.
 
 ### Track Details
-- **Instructors:** Exceptional community members (TBA)
+- **Instructors:** Exceptional community members (TBA). Key sessions from the hosts.
 - **Timeline:** February 22 - March 9, 2025 (Saturdays and Sundays only). Timetable to be shared soon.
 - **Registration Deadline:** Februrary 15, 2025
 - **Target Audience:** Beginers to LLMs or anyonw who wants to refresh their knowledge of the fundamentals before diving in to the specialist tracks. This includes data professionals, software engineers, ML engineers, etc.
@@ -110,6 +110,7 @@ Prior knowledge to the level of most of the topics covered in AISOC Season 1 is 
 ### Track Details
 **Instructors:** 
 - [Sam Ayo](https://www.linkedin.com/in/sam-ayo) - Lead AI Engineer, Clive AI
+- [Chidozie Managwu](https://www.linkedin.com/in/chidozie-managwu) - Senior Software Engineer, Incommunities | ML Engineer, Texas A&M
 - [Caleb Chinga](https://www.linkedin.com/in/calebchinga) - Engineering Manager, Periculum
 - Other instructors to be announced soon.
 

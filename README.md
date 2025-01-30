@@ -20,7 +20,7 @@ These tracks will run on separate timelines and can be taken independently. Howe
 
 ## Track 0: AISOC Community Edition for Beginners
 ### Overview
-This hands-on track is designed to recap the key foundational sessions from [AISOC Season 1](https://github.com/ai-summer-of-code/aisoc-season-1). This track will prepare you to meet the basic prerequisites for the 3 specialist tracks. This is a _community edition_ that will be primarily taught by brilliant, well-vetted community members who completed AISOC Season 1 and are doing exceptionally well already. These individuals will join the AISOC faculty to share their knowledge and guide you through the fundamentals.
+This hands-on track is designed to recap the key foundational sessions from [AISOC Season 1](https://github.com/ai-summer-of-code/aisoc-season-1). This track will prepare you to meet the basic prerequisites for the 3 specialist tracks. This is a ***community edition*** that will be primarily taught by brilliant, well-vetted community members who completed AISOC Season 1 and are doing exceptionally well already. These individuals will join the AISOC faculty to share their knowledge and guide you through the fundamentals.
 
 ### Track Details
 - **Instructors:** Exceptional community members (TBA). Key sessions from the hosts.

@@ -1,4 +1,4 @@
-# AISOC Specialist Tracks, 2025
+# AISOC Sequel Specialist Tracks, 2025
 Sequel to the successful first edition of [AISOC in 2024](https://github.com/ai-summer-of-code/aisoc-season-1), and based on popular demand, we are opening the following specialist tracks to help you advance and specialize your knowledge and skill in specific areas of interest.
 - [Building Agentic AI Systems](https://github.com/ai-summer-of-code/aisoc-sequel-tracks/#track-1-building-agentic-ai-systems)
 - [Training, Serving, Scaling and Debugging LLMs](https://github.com/ai-summer-of-code/aisoc-sequel-tracks/#track-2-training-serving-scaling-and-debugging-llms)
@@ -8,7 +8,9 @@ These tracks will run on separate timelines and can be taken independently. Howe
 
 **These tracks are not for entirely new comers to AI, ML or LLMs!**
 
-UPDATE: We are adding a **community edition** track for beginners. This track is designed for those who missed AISOC Season 1 or want to build the fundamentals first, before diving into the specialist tracks. See [Track 0](https://github.com/ai-summer-of-code/aisoc-sequel-tracks/#track-0-aisoc-community-edition-for-beginners) for more details.
+**UPDATE:** We are adding a **community edition** track for beginners. This track is designed for those who missed AISOC Season 1 or want to build the fundamentals first, before diving into the specialist tracks. See [Track 0](https://github.com/ai-summer-of-code/aisoc-sequel-tracks/#track-0-aisoc-community-edition-for-beginners) for more details.
+
+**NOTE:** Certifications and digital credentials will be issued at the end of these tracks.
 
 <p align="left">
   <br>
@@ -18,14 +20,14 @@ UPDATE: We are adding a **community edition** track for beginners. This track is
 
 ## Track 0: AISOC Community Edition for Beginners
 ### Overview
-This hands-on track is designed to recap the key foundational sessions from [AISOC Season 1](https://github.com/ai-summer-of-code/aisoc-season-1). This track will prepare you to meet the basic prerequisites for the 3 specialist tracks. This is a community edition that will be primarily taught by brilliant community members who completed AISOC Season 1 and are doing exceptionally well already. 
+This hands-on track is designed to recap the key foundational sessions from [AISOC Season 1](https://github.com/ai-summer-of-code/aisoc-season-1). This track will prepare you to meet the basic prerequisites for the 3 specialist tracks. This is a community edition that will be primarily taught by brilliant, well-vetted community members who completed AISOC Season 1 and are doing exceptionally well already. These individuals will be joining the AISOC faculty team to share their knowledge and guide you through the fundamentals.
 
 ### Track Details
 **Instructors:** Exceptional community members (TBA)
 
-**Timeline:** Februrary 15 - 23, 2025 (Saturdays and Sundays). Timetable to be shared soon.
+**Timeline:** February 22 - March 9, 2025 (Saturdays and Sundays only). Timetable to be shared soon.
 
-**Registration Deadlines:** Februrary 10, 2025
+**Registration Deadline:** Februrary 15, 2025
 
 **Target Audience:** Beginers to LLMs or anyonw who wants to refresh their knowledge of the fundamentals before diving in to the specialist tracks. This includes data professionals, software engineers, ML engineers, etc.
 
@@ -48,9 +50,9 @@ Sessions in this track will go well beyond the above and cover more indepth prin
 ### Track Details
 **Instructors:** [Sam Ayo](https://www.linkedin.com/in/sam-ayo), [Zion Pibowei](https://linkedin.com/in/zion-pibowei)
 
-**Timeline:** Februrary 28 - March 9, 2025. Timetable to be shared soon.
+**Timeline:** March 22 - April 6, 2025. Timetable to be shared soon.
 
-**Registration Deadlines:** Februrary 16, 2025 (early), Februrary 21, 2025 (final)
+**Registration Deadlines:** March 8, 2025 (early), March 15, 2025 (final)
 
 **Target Audience:** AISOC Season 1 graduates or anyone who has at least foundational knowledge prototyping LLM systems such as QnA systems and RAG. This track is not for complete beginers in AI or LLMs.
 
@@ -82,9 +84,9 @@ Hands-on technical training in the inner-workings of large language models - fro
 - [Saheed Azeez](https://www.linkedin.com/in/azeez-saheed) - AI Engineer, HelpMum Africa.
 - Other instructors to be announced soon.
 
-**Timeline:** March 21 - April 13, 2025. Timetable to be shared soon.
+**Timeline:** April 25 - May 18, 2025. Timetable to be shared soon.
 
-**Registration Deadlines:** March 9, 2025 (early), March 16, 2025 (final)
+**Registration Deadlines:** April 11, 2025 (early), April 18, 2025 (final)
 
 **Target Audience:** AISOC Season 1 graduates or anyone who has at least foundational knowledge prototyping LLM systems such as QA systems and RAG. This track is not for beginers in AI or LLMs.
 
@@ -105,7 +107,7 @@ At the end of this track, participants will be equipped with the principles and 
 ### Curriculum Structure
 Coming soon!
 
-## Track 3: AI Systems in Production (Models, RAGs, Agents) - Coming up in Q2
+## Track 3: AI Systems in Production (Models, RAGs, Agents)
 ### Overview
 Hands-on technical training in the engineering best practices of implementing production AI systems and designing them for scale. This is a deep dive and more comprehensive treatment of the Production topics introduced in AISOC Season 1 Week 3. 
 
@@ -117,7 +119,7 @@ Prior knowledge to the level of most of the topics covered in AISOC Season 1 is 
 - [Caleb Chinga](https://www.linkedin.com/in/calebchinga) - Engineering Manager, Periculum
 - Other instructors to be announced soon.
 
-**Timeline:** Q2 2025. Specific date TBA.
+**Timeline:** June 2025. Specific dates TBA.
 
 **Target Audience:** 
 - AISOC Season 1 graduates or anyone with prior background in prototyping, training or finetuning LLMs, and who desire to build production-ready skills.

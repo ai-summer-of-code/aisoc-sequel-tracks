@@ -8,11 +8,33 @@ These tracks will run on separate timelines and can be taken independently. Howe
 
 **These tracks are not for entirely new comers to AI, ML or LLMs!**
 
+UPDATE: We are adding a **community edition** track for beginners. This track is designed for those who missed AISOC Season 1 or want to build the fundamentals first, before diving into the specialist tracks. See [Track 0](https://github.com/ai-summer-of-code/aisoc-sequel-tracks/#track-0-aisoc-community-edition-for-beginners) for more details.
+
 <p align="left">
   <br>
   <a href="https://bit.ly/aisoc-sequel-registration" target="_blank" rel="noopener noreferrer"><img src="https://github.com/zion-king/ai-summer-of-code/blob/main/assets/aisoc-signup.png?raw=true" height="50"/></a>
   <br>
 </p>
+
+## Track 0: AISOC Community Edition for Beginners
+### Overview
+This hands-on track is designed to recap the key foundational sessions from [AISOC Season 1](https://github.com/ai-summer-of-code/aisoc-season-1). This track will prepare you to meet the basic prerequisites for the 3 specialist tracks. This is a community edition that will be primarily taught by brilliant community members who completed AISOC Season 1 and are doing exceptionally well already. 
+
+### Track Details
+**Instructors:** Exceptional community members (TBA)
+
+**Timeline:** Februrary 15 - 23, 2025 (Saturdays and Sundays). Timetable to be shared soon.
+
+**Registration Deadlines:** Februrary 10, 2025
+
+**Target Audience:** Beginers to LLMs or anyonw who wants to refresh their knowledge of the fundamentals before diving in to the specialist tracks. This includes data professionals, software engineers, ML engineers, etc.
+
+**Prerequisites:** Working knowledge of a programming language such as Python. Knowledge of APIs, cloud, and web frameworks will be a bonus, but not strictly required.
+
+**Delivery Mode**: Online only.
+
+**Learning Outcomes:** 
+At the end of this track, participants will be equipped with the foundational knowledge required to prototype and implement LLM applications, including QnA systems, RAG systems, etc. This knowledge will also serve as a foundation for the specialist tracks outlined below.
 
 ## Track 1: Building Agentic AI Systems
 ### Overview
@@ -108,7 +130,7 @@ Prior knowledge to the level of most of the topics covered in AISOC Season 1 is 
 - General familiarity with Docker, shell scripting and cloud platforms is a plus.
 - Required familiarity in specialist areas:
   - **RAGs:** Prior knowledge of RAG implementation is REQUIRED for everyone, to the level covered in AISOC Season 1.
-  - **Agents:** For those mainly interested in productionizing agentic systems, prior knowledge in designing and implementing agents is required up to the level of the [Agents track](https://github.com/ai-summer-of-code/aisoc-sequel-tracks/#track-1-building-agentic-ai-systems).
+  - **Agents:** For those mainly interested in productionizing agentic systems, prior knowledge in Agentic systems is required up to the foundational level covered in [AISOC Season 1](https://github.com/ai-summer-of-code/aisoc-season-1).
   - **Models:** For those interested in production systems (RAGs, Agents, QnA, etc) with bare/finetuned LLMs, prior knowledge of the inner workings of LLMs is required, up to the level of the [LLM Training track](https://github.com/ai-summer-of-code/aisoc-sequel-tracks/#track-2-training-serving-scaling-and-debugging-llms).
 
 **Delivery Mode**
